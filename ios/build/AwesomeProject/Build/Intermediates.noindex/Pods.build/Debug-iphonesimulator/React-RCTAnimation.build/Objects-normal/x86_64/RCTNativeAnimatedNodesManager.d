@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/developer/AwesomeProject/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/developer/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/developer/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
